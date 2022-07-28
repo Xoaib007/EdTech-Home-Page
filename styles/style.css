@@ -2,11 +2,15 @@
     filter: brightness(40%);
 }
 .width{
-    padding-bottom: 11rem;
+    padding-bottom: 10rem;
 }
 .container h5 p{
     font-size: 100px;
 }
 .font{
     font-size: 4rem;
+}
+.cards{
+    width: 680px;
+    height: 200px;
 }
