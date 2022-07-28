@@ -1,3 +1,5 @@
+/* Custom CSS */
+
 .slider-image{
     filter: brightness(40%);
 }
@@ -19,3 +21,5 @@
     height: 19rem;
     width: 83rem;
 }
+
+/* Custom CSS end */
