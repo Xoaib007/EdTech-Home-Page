@@ -9,12 +9,20 @@
 .container h5 p{
     font-size: 100px;
 }
+.carousel-images{
+    filter: brightness(60%);
+    height: 650px;
+    max-height: 100vh;
+}
+.card-items{
+    height: 300px;
+}
 .font{
     font-size: 4rem;
 }
 .cards{
-    width: 680px;
-    height: 200px;
+    min-width: 680px;
+    max-height: 200px;
 }
 .register{
     margin-top: 10rem;
