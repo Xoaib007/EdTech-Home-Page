@@ -2,6 +2,6 @@
 
 Project started: July 29, 2022
 
-Project target: Explore css framework Bootstrap
+Project target: Learn and explore css framework Bootstrap
 
 Used technology: HTML, Vanilla CSS, Bootstrap
